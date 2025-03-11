@@ -1,0 +1,7 @@
+// MTPPSCRANET, Version=1.0.0.18, Culture=neutral, PublicKeyToken=null
+// MTPPSCRANET.IPAD_PROGRESS
+internal enum IPAD_PROGRESS
+{
+	IPAD_PROGRESS_SEND_BITMAP = 12,
+	IPAD_PROGRESS_UPDATE_FIRMWARE = 23
+}
